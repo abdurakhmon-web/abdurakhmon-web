@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdurakhmon-web
+- 👋 Hi, I’m Abdurakhmon
 
 <!---
 abdurakhmon-web/abdurakhmon-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
